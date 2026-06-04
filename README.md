@@ -200,6 +200,7 @@ BRC | Standard
 134  | [Multicast Anchor Transaction Frame Format](./transactions/0134.md)
 135  | [Multicast Block Header Frame Format](./transactions/0135.md)
 136  | [Block-Anchored Overlay Synchronization via Block-Aligned Sparse Merkle Trees (BASM)](./overlays/0136.md)
+139  | [Multicast Shard Manifest Announcement Protocol](./transactions/0139.md)
 
 ## License
 
